@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yusuf.ceylan.ESG-1100\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yusuf.ceylan.ESG-1100\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}

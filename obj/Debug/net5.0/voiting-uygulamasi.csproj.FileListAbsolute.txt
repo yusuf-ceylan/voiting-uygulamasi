@@ -1,0 +1,16 @@
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\bin\Debug\net5.0\voiting-uygulamasi.exe
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\bin\Debug\net5.0\voiting-uygulamasi.deps.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\bin\Debug\net5.0\voiting-uygulamasi.runtimeconfig.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\bin\Debug\net5.0\voiting-uygulamasi.runtimeconfig.dev.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\bin\Debug\net5.0\voiting-uygulamasi.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\bin\Debug\net5.0\voiting-uygulamasi.pdb
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\obj\Debug\net5.0\voiting-uygulamasi.csproj.AssemblyReference.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\obj\Debug\net5.0\voiting-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\obj\Debug\net5.0\voiting-uygulamasi.AssemblyInfoInputs.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\obj\Debug\net5.0\voiting-uygulamasi.AssemblyInfo.cs
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\obj\Debug\net5.0\voiting-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\obj\Debug\net5.0\voiting-uygulamasi.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\obj\Debug\net5.0\refint\voiting-uygulamasi.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\obj\Debug\net5.0\voiting-uygulamasi.pdb
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\obj\Debug\net5.0\voiting-uygulamasi.genruntimeconfig.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\voiting-uygulamasi\obj\Debug\net5.0\ref\voiting-uygulamasi.dll
